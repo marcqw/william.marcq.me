@@ -1,0 +1,9 @@
+{
+  "name": "william.marcq.me",
+  "version": "1.0.0",
+  "description": "My showcase page",
+  "main": "index.js",
+  "repository": "https://github.com/marcqw/william.marcq.me.git",
+  "author": "William Marcq",
+  "license": "MIT"
+}
