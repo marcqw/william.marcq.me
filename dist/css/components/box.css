@@ -1,0 +1,18 @@
+
+.box--centering {
+    height: 100%;
+    display: grid;
+    min-height: 100vh;
+}
+
+.box__container {
+    margin: auto;
+    background-color: aqua;
+  width: 620px;
+  height: 300px;
+  max-width: calc(100vw - 10px);
+  text-align: center;
+  border-radius: 8px;
+
+}
+

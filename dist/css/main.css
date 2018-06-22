@@ -1,2 +1,7 @@
 
 /* --- Components ---  */
+@import url("components/box.css");
+
+body {
+    margin: 0;
+}
