@@ -28,3 +28,8 @@
     top: -60px;
     margin: auto;
 }
+
+.box__name {
+    position: relative;
+    top: -35px;
+}
