@@ -33,3 +33,22 @@
     position: relative;
     top: -35px;
 }
+
+.box__socialline__elements {
+  list-style: none;
+  
+ 
+}
+
+.box__socialline__element {
+  padding: 10px;
+  color: antiquewhite;
+  transition: background-color .15s ease-out,color .15s ease-out,border-color .15s ease-out,fill .15s ease-out,box-shadow .15s ease-out;
+
+}
+
+.box__socialline__element:hover {
+    padding: 10px;
+    color: brown;
+  
+  }
